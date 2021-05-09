@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ravenous-practice-react-1/static/css/main.6ce75b7c.chunk.css",
-    "main.js": "/ravenous-practice-react-1/static/js/main.0a9ec95a.chunk.js",
-    "main.js.map": "/ravenous-practice-react-1/static/js/main.0a9ec95a.chunk.js.map",
-    "runtime-main.js": "/ravenous-practice-react-1/static/js/runtime-main.0d4cd205.js",
-    "runtime-main.js.map": "/ravenous-practice-react-1/static/js/runtime-main.0d4cd205.js.map",
-    "static/js/2.c83990c3.chunk.js": "/ravenous-practice-react-1/static/js/2.c83990c3.chunk.js",
-    "static/js/2.c83990c3.chunk.js.map": "/ravenous-practice-react-1/static/js/2.c83990c3.chunk.js.map",
-    "static/js/3.71784679.chunk.js": "/ravenous-practice-react-1/static/js/3.71784679.chunk.js",
-    "static/js/3.71784679.chunk.js.map": "/ravenous-practice-react-1/static/js/3.71784679.chunk.js.map",
-    "index.html": "/ravenous-practice-react-1/index.html",
-    "static/css/main.6ce75b7c.chunk.css.map": "/ravenous-practice-react-1/static/css/main.6ce75b7c.chunk.css.map",
-    "static/js/2.c83990c3.chunk.js.LICENSE.txt": "/ravenous-practice-react-1/static/js/2.c83990c3.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/ravenous-practice-react-1/static/media/background_search_mobile.a6f8ee50.jpg"
+    "main.css": "/ravenous-practice-react/static/css/main.5268dab8.chunk.css",
+    "main.js": "/ravenous-practice-react/static/js/main.0a9ec95a.chunk.js",
+    "main.js.map": "/ravenous-practice-react/static/js/main.0a9ec95a.chunk.js.map",
+    "runtime-main.js": "/ravenous-practice-react/static/js/runtime-main.a9ce828e.js",
+    "runtime-main.js.map": "/ravenous-practice-react/static/js/runtime-main.a9ce828e.js.map",
+    "static/js/2.c83990c3.chunk.js": "/ravenous-practice-react/static/js/2.c83990c3.chunk.js",
+    "static/js/2.c83990c3.chunk.js.map": "/ravenous-practice-react/static/js/2.c83990c3.chunk.js.map",
+    "static/js/3.71784679.chunk.js": "/ravenous-practice-react/static/js/3.71784679.chunk.js",
+    "static/js/3.71784679.chunk.js.map": "/ravenous-practice-react/static/js/3.71784679.chunk.js.map",
+    "index.html": "/ravenous-practice-react/index.html",
+    "static/css/main.5268dab8.chunk.css.map": "/ravenous-practice-react/static/css/main.5268dab8.chunk.css.map",
+    "static/js/2.c83990c3.chunk.js.LICENSE.txt": "/ravenous-practice-react/static/js/2.c83990c3.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/ravenous-practice-react/static/media/background_search_mobile.a6f8ee50.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d4cd205.js",
+    "static/js/runtime-main.a9ce828e.js",
     "static/js/2.c83990c3.chunk.js",
-    "static/css/main.6ce75b7c.chunk.css",
+    "static/css/main.5268dab8.chunk.css",
     "static/js/main.0a9ec95a.chunk.js"
   ]
 }
