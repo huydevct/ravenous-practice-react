@@ -11,12 +11,12 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "http://huydevct.github.io/ravenous-practice-react-1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "http://huydevct.github.io/ravenous-practice-react-1",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
